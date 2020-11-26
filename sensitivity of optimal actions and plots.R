@@ -78,7 +78,7 @@ lines(x = 1:7, y = midline1, type = 'l', lwd = 5,
 legend(1, 1, legend=c("40000", "45000"),
        col=c("blue", "darkgreen"), lwd=5)
 
-##################  Sensitivity twards bp or age
+##################  Sensitivity towards bp or age
 
 
 sensiv= sensiv1 = sensiv2 = numeric(L)
